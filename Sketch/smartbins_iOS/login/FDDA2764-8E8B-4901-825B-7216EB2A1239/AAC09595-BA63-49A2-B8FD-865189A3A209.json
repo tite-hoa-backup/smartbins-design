@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAC09595-BA63-49A2-B8FD-865189A3A209",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF7ADC84-671B-47BF-BCC7-64FA2578424D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FC1E5FF-6E52-4335-B79C-D090C9D71439",
+    "height": 56,
+    "width": 311,
+    "x": 32,
+    "y": 519
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / basic",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "512678D1-3144-412E-9F79-28A80BC358E4",
+      "overrideName": "EF6C7EB4-1923-4FDB-BD7E-1CFAE0C09241_symbolID",
+      "value": "C8308C6E-D394-4B14-A8E7-A9A65C92C5F2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD26A9E5-58F4-466D-BA12-39EA9D057D37",
+      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_textStyle",
+      "value": "40641141-8FE5-4513-A283-A08034497F47"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15795349-EFE4-4115-AF36-71519219DF9D",
+      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
+      "value": "로그인"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2221DB2A-FBD5-43FE-BE79-293149E86CF7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD261668-417F-4D5D-82F2-4AF508135AF4",
+  "verticalSpacing": 0
+}
