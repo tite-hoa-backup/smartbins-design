@@ -65,6 +65,10 @@
     {
       "class": "symbolInstance",
       "id": "A13B6442-03AF-4CF2-8800-C6A3EDD36F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "244DC339-0495-4EFA-B453-16EB1E2F2E62"
     }
   ],
   "name": "smartbins / basic",

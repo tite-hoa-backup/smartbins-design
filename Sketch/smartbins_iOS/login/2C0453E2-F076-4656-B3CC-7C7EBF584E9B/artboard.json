@@ -60,10 +60,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B199F773-B957-4F95-A856-315D25589CCF"
-    },
-    {
-      "class": "symbolInstance",
       "id": "EFC88185-8C0A-45CD-A721-06C1B142358A"
     },
     {
@@ -77,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "7BA5255C-0FA9-47B4-90A0-BCBAE3B50DDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50D9DD6D-E384-4A78-93B1-BDC77C3845D9"
     }
   ],
   "name": "connect / findingBinsNext",

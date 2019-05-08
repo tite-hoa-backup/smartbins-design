@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "3396C4CB-87C9-42E4-B07C-9859C39A7CA0",
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -61,6 +60,14 @@
     {
       "class": "symbolInstance",
       "id": "3F450C61-E955-4E85-BE07-B8488ADCB3C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E22AC02E-8806-4F8E-A225-84D0B327B291"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28F47D92-3ACE-413F-B718-E22A829F4BB4"
     }
   ],
   "name": "home / basic",

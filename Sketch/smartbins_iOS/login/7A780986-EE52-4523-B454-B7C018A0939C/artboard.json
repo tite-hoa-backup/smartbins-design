@@ -60,10 +60,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "EA839FCB-C580-4B04-A243-DC66F398EA06"
-    },
-    {
-      "class": "symbolInstance",
       "id": "02312711-9E6B-497F-85C8-4956B850D14B"
     },
     {
@@ -77,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "E1EE5415-C83F-4EB9-BC09-E141130AA265"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D141D3D7-D0A7-4431-B5A0-029DBEE960FD"
     }
   ],
   "name": "connect / findingBins",

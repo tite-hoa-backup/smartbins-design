@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D141D3D7-D0A7-4431-B5A0-029DBEE960FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC69975D-6D3D-4C09-A2C1-590CE7854F9B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D33969DA-CDD3-4AAB-9D1E-8DE855F78B7B",
+    "height": 88,
+    "width": 375,
+    "x": 0,
+    "y": 531
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / padding",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19E3FC0D-CD76-46A2-AB32-C8B6936FE3F3",
+      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF_symbolID",
+      "value": "FB8B5A33-3191-4036-9785-6FB54D7D17EE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF1689E2-F1A1-4B80-B2A3-39900EE88712",
+      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF/A05FCADB-70F4-41FE-AFB2-4582E09B8603/8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
+      "value": "연결하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0913E75-40FB-43DE-935E-3292EA88D9C9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CAF3355A-91C4-4221-9DAB-7395BB9EB765",
+  "verticalSpacing": 0
+}

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B199F773-B957-4F95-A856-315D25589CCF",
+  "do_objectID": "58F07BAF-691C-466B-BF52-DD7A35EBBBE5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EC7F3A89-A22F-4C91-AF42-E8C6404CB371",
+    "do_objectID": "FDC50ACD-A7E9-4DEE-B4A1-A2455CFAA8A4",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C5DCA342-0EB5-4C18-B93F-376D130B1D55",
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 547
+    "do_objectID": "67A94FEC-22DE-4C38-8508-157AA89E4DA1",
+    "height": 32,
+    "width": 343,
+    "x": 16,
+    "y": 0
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,15 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basic",
-  "nameIsFixed": true,
+  "name": "calendar / row / day",
+  "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "7C2F0496-5C97-49EF-824B-AEC8903A4696",
-      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
-      "value": "연결하기"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -74,12 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "07F8B371-34CE-4D56-9AE3-CF4BABB43A54",
+    "do_objectID": "047FA4F5-2593-4E73-A6FE-BAF7DEC12C1A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BD261668-417F-4D5D-82F2-4AF508135AF4",
+  "symbolID": "00F95248-3881-444B-9A8F-888E6A1C12C1",
   "verticalSpacing": 0
 }

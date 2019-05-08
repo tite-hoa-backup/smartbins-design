@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AADA276C-5B22-4D6A-9D62-2E649DFC55DC",
+  "do_objectID": "71026429-E449-4E5B-91DA-FED2D02C7E7A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "134281AD-5BB8-494B-8FFF-7431297E14BB",
+    "do_objectID": "92BE9CE8-91A0-4F3B-B7F0-2A14445BA5B0",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "513A0B3E-B9EE-495B-A013-C4160E810CA7",
-    "height": 56,
-    "width": 311,
-    "x": 32,
-    "y": 547
+    "do_objectID": "DD786A28-B3C1-4232-9DA2-6BC78A16651B",
+    "height": 48,
+    "width": 343,
+    "x": 16,
+    "y": 224
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,15 +57,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / basic",
+  "name": "calendar / row / date",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "52D6C8E3-AEE7-450B-9B42-E496550B8C49",
-      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
-      "value": "SmartBins 스캔 시작하기"
-    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -74,12 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "56B16A10-537B-4FD0-BAAC-FF24C1FB1E41",
+    "do_objectID": "29CDFCC0-8942-40C4-B40C-FF66C0CF6260",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "BD261668-417F-4D5D-82F2-4AF508135AF4",
+  "symbolID": "51304C35-6563-46F1-BD5A-676184E09896",
   "verticalSpacing": 0
 }

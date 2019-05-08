@@ -60,15 +60,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9F608659-EE0D-4645-880A-2C1BE0F8DCC9"
-    },
-    {
-      "class": "symbolInstance",
       "id": "58FCD3ED-5218-4A15-B2DC-97D22598B4F4"
     },
     {
       "class": "symbolInstance",
       "id": "A6FC764B-2F6E-42CB-B824-C474AE5BC4F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E36E473B-D2BC-46DA-B620-64DB78E8BDA8"
     }
   ],
   "name": "connect / startFinding",
