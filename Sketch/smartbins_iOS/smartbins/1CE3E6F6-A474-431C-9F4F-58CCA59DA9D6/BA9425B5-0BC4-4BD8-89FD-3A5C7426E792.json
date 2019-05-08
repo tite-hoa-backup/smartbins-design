@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA9425B5-0BC4-4BD8-89FD-3A5C7426E792",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 236
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / smartbins / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83E692E0-20B0-422A-8A39-EA497ADC408F",
+      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/0539BC45-07E8-4775-9FA6-6EFD58E726E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/061e17c5b411c1e9bc8536dbf7f6969665bd9274.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE9E63F7-14FC-4176-A025-946F6C1C0EBE",
+      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_stringValue",
+      "value": "SmartBin PURPLE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7C816633-B70B-4A2B-8D65-276207AC9D58",
+      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue",
+      "value": "Vitamin D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D35F0D9-F90A-4D88-815D-B6D12CCBBCC9",
+      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_stringValue",
+      "value": "연결됨, 잠겨있지 않음"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C419C70-F63B-48A2-869A-B4D4290FF6FA",
+      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_textStyle",
+      "value": "8914986B-4F3B-43A8-A4D8-3FE1EAB9531C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69BAA42D-BFEA-44F7-82CD-A2D094898CBF",
+  "verticalSpacing": 0
+}
