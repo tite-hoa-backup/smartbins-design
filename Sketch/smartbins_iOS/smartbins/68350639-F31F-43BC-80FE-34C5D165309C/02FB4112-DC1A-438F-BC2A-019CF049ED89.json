@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BA9425B5-0BC4-4BD8-89FD-3A5C7426E792",
+  "do_objectID": "02FB4112-DC1A-438F-BC2A-019CF049ED89",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3290859A-5C8A-4C97-BF52-EC138F6EBE83",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 96,
+    "do_objectID": "109AB27B-1D86-43B4-9FD4-5789E8FF85ED",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 260
+    "y": 20
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,56 +57,41 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / smartbins / basic",
+  "name": "header / basic",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "83E692E0-20B0-422A-8A39-EA497ADC408F",
-      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/0539BC45-07E8-4775-9FA6-6EFD58E726E3_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/061e17c5b411c1e9bc8536dbf7f6969665bd9274.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "1721D051-1F18-4683-B5CF-516B3118FB2E",
+      "overrideName": "633C3BFD-C3D3-4F5C-A5A5-88A6021A365C_stringValue",
+      "value": "SmartBin RED"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "BE9E63F7-14FC-4176-A025-946F6C1C0EBE",
-      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_stringValue",
-      "value": "SmartBin PURPLE"
+      "do_objectID": "C2BB01F9-098E-485F-949D-D5D09469A99D",
+      "overrideName": "47E92DDD-B374-46A0-B776-DA09466D66D6_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "7C816633-B70B-4A2B-8D65-276207AC9D58",
-      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue",
-      "value": "Vitamin D"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0D35F0D9-F90A-4D88-815D-B6D12CCBBCC9",
-      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_stringValue",
-      "value": "연결됨, 잠겨있지 않음"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "6C419C70-F63B-48A2-869A-B4D4290FF6FA",
-      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_textStyle",
-      "value": "8914986B-4F3B-43A8-A4D8-3FE1EAB9531C"
+      "do_objectID": "6476F2F3-862E-436D-82FC-64082379F9E2",
+      "overrideName": "1EDE3385-F177-4B16-82DF-AC4D150559CB_symbolID",
+      "value": ""
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "ABD7FBF6-53B6-4C2C-A169-E7D743F5368B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "69BAA42D-BFEA-44F7-82CD-A2D094898CBF",
+  "symbolID": "D4618127-C3CA-478F-812D-54D032A7701D",
   "verticalSpacing": 0
 }

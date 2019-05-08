@@ -7,6 +7,33 @@
     "_class": "exportOptions",
     "do_objectID": "8555B527-1A7F-4D6F-AA05-72AD2AC3FC54",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -17,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B86D15A-BD07-4118-AD18-C1BE1B84EB3B",
-    "height": 80,
+    "height": 96,
     "width": 375,
     "x": 0,
-    "y": 156
+    "y": 164
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,

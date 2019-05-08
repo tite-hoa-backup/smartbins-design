@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "244DC339-0495-4EFA-B453-16EB1E2F2E62",
+  "do_objectID": "9360D162-D7F9-429B-A5D1-2D9059EB0653",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EE0EF04B-E133-4205-818F-720FCCB2EDE7",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 375,
-    "x": 0,
-    "y": 20
+    "do_objectID": "7E63ACBC-7E65-414A-9C83-9120F66F926B",
+    "height": 1,
+    "width": 343,
+    "x": 16,
+    "y": 95
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,28 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / title",
+  "name": "misc / bottomStrokeFull",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "146150F1-BEA3-462D-8E58-53E81637746B",
-      "overrideName": "29F86AFE-EF7F-476E-A0AD-37E83A2887A9_stringValue",
-      "value": "나의 SmartBins"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C6D3C8FF-78C0-4C39-AF97-C58105E84772",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AAC6EBE0-5A7B-4C87-B6AA-233AC3B6624C",
+  "symbolID": "C1ED1086-7A9B-4266-822C-B3620D0773E9",
   "verticalSpacing": 0
 }

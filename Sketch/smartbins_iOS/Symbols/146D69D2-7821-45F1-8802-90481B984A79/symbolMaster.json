@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 572,
+  "changeIdentifier": 614,
   "clippingMaskMode": 0,
   "do_objectID": "146D69D2-7821-45F1-8802-90481B984A79",
   "exportOptions": {
@@ -54,7 +54,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "084B4F11-5287-450C-9778-AF50C3926707",
-    "height": 80,
+    "height": 96,
     "width": 375,
     "x": 2878,
     "y": 220
@@ -99,6 +99,10 @@
     {
       "class": "symbolInstance",
       "id": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9360D162-D7F9-429B-A5D1-2D9059EB0653"
     }
   ],
   "name": "list / smartbins / basic",
@@ -108,6 +112,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9360D162-D7F9-429B-A5D1-2D9059EB0653_symbolID"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -122,12 +131,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_textStyle"
+      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue"
+      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_textStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
