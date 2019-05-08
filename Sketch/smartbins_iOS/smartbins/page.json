@@ -2,7 +2,7 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C34D0C6B-870E-4CE7-BD9E-979B9933808E",
+  "do_objectID": "C54DE877-D74B-49E6-85C2-0E062CD5BEF1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -41,10 +41,10 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "A38C4764-AC59-4B58-BDB7-DBF6E2F9D161"
+      "id": "1CE3E6F6-A474-431C-9F4F-58CCA59DA9D6"
     }
   ],
-  "name": "dashboard",
+  "name": "smartbins",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -59,7 +59,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -471,
+    "base": -459,
     "guides": [
     ]
   }

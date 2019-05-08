@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 317,
+  "changeIdentifier": 487,
   "clippingMaskMode": 0,
   "do_objectID": "F8BA93FE-43E5-44EC-8B28-1DB89C68976E",
   "exportOptions": {
@@ -64,7 +64,7 @@
     "do_objectID": "D0618DDF-C587-4084-8F04-3E33045D76D6"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -86,12 +86,48 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "5F5D388C-8DC2-4E04-999B-5718A39E6FA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1ABE066-FF8F-4E4D-8883-947E9D73279D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3E035C8-A3D2-4564-9CA8-7599FB8FFA2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9DFC4E4-C5B7-4F1F-8621-DEF06D942EA0"
+    },
+    {
+      "class": "symbolInstance",
       "id": "BE3B819D-E89A-4EED-A7BD-D0912D4D52BB"
     }
   ],
   "name": "tab / basic",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F9DFC4E4-C5B7-4F1F-8621-DEF06D942EA0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5F5D388C-8DC2-4E04-999B-5718A39E6FA2_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3E035C8-A3D2-4564-9CA8-7599FB8FFA2B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B1ABE066-FF8F-4E4D-8883-947E9D73279D_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
