@@ -21320,6 +21320,7 @@
   },
   "pages": [
     "login",
+    "dashboard",
     "Symbols"
   ]
 }

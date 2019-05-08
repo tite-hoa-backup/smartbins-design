@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "91D75E00-7A4E-4A4B-A738-489D5A4CB965",
+    "do_objectID": "3396C4CB-87C9-42E4-B07C-9859C39A7CA0",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2C0453E2-F076-4656-B3CC-7C7EBF584E9B",
+  "do_objectID": "A38C4764-AC59-4B58-BDB7-DBF6E2F9D161",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "64DFF834-E213-48F4-BB0B-5F53EB5C2C5E",
+    "do_objectID": "AEB12913-C4A2-49D0-A691-9FF94DC4624C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,15 +24,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9BD04E06-0B0A-4B46-B475-A3A9B0EDE836",
+    "do_objectID": "29E630C1-7601-4995-944A-4BA5A5070B44",
     "height": 667,
     "width": 375,
-    "x": 1425,
-    "y": 1534
+    "x": -561,
+    "y": -471
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
-    "do_objectID": "3D2CF55F-B9A9-4491-A4E4-988929AD0D41"
+    "do_objectID": "1914C855-6B12-4A8D-9989-162D39AA0D33"
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -40,7 +40,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F2EEBAC6-C3AC-4CFA-B5D6-3A6298EAD1EF",
+    "do_objectID": "74D61E8C-C1D4-46E9-9A7A-10FF1D7E490A",
     "guides": [
     ]
   },
@@ -56,30 +56,10 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "949591C9-AC2B-4BEE-A4DF-8BF20A877155"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B199F773-B957-4F95-A856-315D25589CCF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EFC88185-8C0A-45CD-A721-06C1B142358A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E09F1EA6-2D0C-4F7E-8457-5B2C097CBAFF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1B11B641-3534-42C9-9BAC-3A38EF2BEF96"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7BA5255C-0FA9-47B4-90A0-BCBAE3B50DDF"
+      "id": "A3983B7D-5ED6-416B-B2D5-CFCF083C8ABF"
     }
   ],
-  "name": "connect / findingBinsNext",
+  "name": "login / first",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
@@ -95,7 +75,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "6DB35F2C-A263-493B-8D2F-190D1D8EA112",
+    "do_objectID": "C113EEE6-1329-4435-81A6-F43BCA752E7E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -104,7 +84,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "D9147CA1-5F03-4247-ADE0-7391DE3C1751",
+    "do_objectID": "A5B6F7BD-171C-4CC4-B1ED-29D83DEEC2A8",
     "guides": [
     ]
   }
