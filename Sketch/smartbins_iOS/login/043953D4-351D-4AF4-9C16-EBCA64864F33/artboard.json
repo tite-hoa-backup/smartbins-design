@@ -56,15 +56,15 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "654349D1-1DB4-4E98-8A5D-2E5621964542"
-    },
-    {
-      "class": "symbolInstance",
       "id": "FF5ACCFF-0E54-4826-905E-1631AEB0D74E"
     },
     {
       "class": "symbolInstance",
       "id": "F68DCA49-C43F-4E72-A610-455AD1F71635"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "654349D1-1DB4-4E98-8A5D-2E5621964542"
     }
   ],
   "name": "connect / start",

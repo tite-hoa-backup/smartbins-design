@@ -56,10 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "674C1DDB-B3C2-4791-81FA-6A1F40DF2011"
-    },
-    {
-      "class": "symbolInstance",
       "id": "D6884D22-4446-42A2-B787-6CE94BC56FEF"
     },
     {
@@ -72,10 +68,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "66333794-163B-4FDC-A750-A3D49686BAFF"
-    },
-    {
-      "class": "symbolInstance",
       "id": "F8E4F474-E93C-4732-9505-9C4EE54256AB"
     },
     {
@@ -85,6 +77,14 @@
     {
       "class": "symbolInstance",
       "id": "1EE4509C-9B07-4543-91F3-21FA2C210285"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "66333794-163B-4FDC-A750-A3D49686BAFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "674C1DDB-B3C2-4791-81FA-6A1F40DF2011"
     }
   ],
   "name": "signup / basicProgress",

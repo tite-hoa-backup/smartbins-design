@@ -69,6 +69,12 @@
       "do_objectID": "6C757AD5-7F39-4487-9ED7-244196B2A924",
       "overrideName": "7EF3BF2B-EDFA-4B8E-ABC9-9B77726C3BB4_stringValue",
       "value": "SB 1048"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0649686-EBFB-4B95-9AA4-5064B9A66433",
+      "overrideName": "0EED0E9E-E956-4285-8268-333C4EA0BEE1_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

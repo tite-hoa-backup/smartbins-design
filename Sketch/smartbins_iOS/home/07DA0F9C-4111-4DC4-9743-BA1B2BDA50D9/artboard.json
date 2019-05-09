@@ -63,10 +63,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "3D600935-8F47-483C-B678-48A163223A1B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "9FA8E626-03E1-4E6F-8863-CA7EBD1EAB09"
     },
     {
@@ -76,6 +72,10 @@
     {
       "class": "symbolInstance",
       "id": "FBB77806-DFE3-4CCA-9785-606085C2C2F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D600935-8F47-483C-B678-48A163223A1B"
     }
   ],
   "name": "home / selected",

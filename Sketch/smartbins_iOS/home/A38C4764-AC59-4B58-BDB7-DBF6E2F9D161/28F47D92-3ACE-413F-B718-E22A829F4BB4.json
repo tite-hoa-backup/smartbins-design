@@ -69,6 +69,12 @@
       "do_objectID": "0237265A-9176-4C38-ADFB-5ABAEBDBDB8E",
       "overrideName": "B8693FBB-7A5D-4927-89B0-19C4D896BF2F_stringValue",
       "value": "2019년 6월"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9FE35C6B-A079-474E-B88E-D67D2C635234",
+      "overrideName": "E749A7EA-C837-4272-8A17-EE45283BF61C_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

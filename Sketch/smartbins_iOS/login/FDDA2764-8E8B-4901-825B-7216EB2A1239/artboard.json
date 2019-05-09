@@ -51,10 +51,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "4E510D0E-F71D-42DE-B34E-B9E69C54E58E"
-    },
-    {
-      "class": "symbolInstance",
       "id": "AAC09595-BA63-49A2-B8FD-865189A3A209"
     },
     {
@@ -68,6 +64,10 @@
     {
       "class": "symbolInstance",
       "id": "E14E65D1-261B-4F57-90E3-022A7A99F149"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E510D0E-F71D-42DE-B34E-B9E69C54E58E"
     }
   ],
   "name": "login / first",

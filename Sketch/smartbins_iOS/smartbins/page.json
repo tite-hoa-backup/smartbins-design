@@ -45,7 +45,15 @@
     },
     {
       "class": "artboard",
+      "id": "6DDC32DD-AD8C-4DFC-B205-D36F10AF36FB"
+    },
+    {
+      "class": "artboard",
       "id": "68350639-F31F-43BC-80FE-34C5D165309C"
+    },
+    {
+      "class": "artboard",
+      "id": "0585789E-E3E0-4D65-8DB9-88752DED1EE8"
     }
   ],
   "name": "smartbins",

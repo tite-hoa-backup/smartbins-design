@@ -56,14 +56,6 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "949591C9-AC2B-4BEE-A4DF-8BF20A877155"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EFC88185-8C0A-45CD-A721-06C1B142358A"
-    },
-    {
-      "class": "symbolInstance",
       "id": "E09F1EA6-2D0C-4F7E-8457-5B2C097CBAFF"
     },
     {
@@ -77,6 +69,14 @@
     {
       "class": "symbolInstance",
       "id": "50D9DD6D-E384-4A78-93B1-BDC77C3845D9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFC88185-8C0A-45CD-A721-06C1B142358A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "949591C9-AC2B-4BEE-A4DF-8BF20A877155"
     }
   ],
   "name": "connect / findingBinsNext",

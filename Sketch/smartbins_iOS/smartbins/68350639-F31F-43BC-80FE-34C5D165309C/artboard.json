@@ -55,11 +55,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "37806226-9874-4144-9C7E-2F880F88E566"
+      "id": "59ED54A3-325E-42C6-9BBD-5717E2BF857B"
     },
     {
       "class": "symbolInstance",
-      "id": "02FB4112-DC1A-438F-BC2A-019CF049ED89"
+      "id": "A7FFE987-679A-42A4-AD9F-224EE3667EBE"
     },
     {
       "class": "symbolInstance",
@@ -67,7 +67,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A7FFE987-679A-42A4-AD9F-224EE3667EBE"
+      "id": "02FB4112-DC1A-438F-BC2A-019CF049ED89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37806226-9874-4144-9C7E-2F880F88E566"
     }
   ],
   "name": "smartbins / details",

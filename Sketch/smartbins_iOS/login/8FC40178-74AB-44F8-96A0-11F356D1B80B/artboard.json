@@ -56,7 +56,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "3ACB49FD-A2D7-47E2-95C2-6E92E6408198"
+      "id": "A6FC764B-2F6E-42CB-B824-C474AE5BC4F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E36E473B-D2BC-46DA-B620-64DB78E8BDA8"
     },
     {
       "class": "symbolInstance",
@@ -64,11 +68,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "A6FC764B-2F6E-42CB-B824-C474AE5BC4F6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E36E473B-D2BC-46DA-B620-64DB78E8BDA8"
+      "id": "3ACB49FD-A2D7-47E2-95C2-6E92E6408198"
     }
   ],
   "name": "connect / startFinding",
