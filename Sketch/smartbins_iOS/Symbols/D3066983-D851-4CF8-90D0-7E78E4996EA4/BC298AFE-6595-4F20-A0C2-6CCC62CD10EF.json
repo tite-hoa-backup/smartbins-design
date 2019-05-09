@@ -55,26 +55,26 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / padding",
-  "nameIsFixed": false,
+  "name": "btn / padding_16",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "8248EC17-889F-4203-A7B7-27779ADF06CB",
-      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF/EF6C7EB4-1923-4FDB-BD7E-1CFAE0C09241_symbolID",
-      "value": "C8308C6E-D394-4B14-A8E7-A9A65C92C5F2"
+      "do_objectID": "564AFC59-B1C3-4502-BD21-689764CFA8AB",
+      "overrideName": "CC45AA53-0F27-4961-B62E-804DFA57C221/EF6C7EB4-1923-4FDB-BD7E-1CFAE0C09241_symbolID",
+      "value": "67422352-93B6-4500-BD9E-DC8531E37D1B"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "3D00E3BA-1003-4417-8771-C86627045A5B",
-      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF/8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
-      "value": "지금 리필하기"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "082DC960-A25F-4729-9E9F-2D1276723787",
-      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF/8AC96E52-CA2F-496D-948D-51607739EBB9_textStyle",
+      "do_objectID": "5E3753A3-5C5D-4D63-BA3A-2D489E747AC1",
+      "overrideName": "CC45AA53-0F27-4961-B62E-804DFA57C221/8AC96E52-CA2F-496D-948D-51607739EBB9_textStyle",
       "value": "2CCD5727-BCAC-41D0-AD05-CBD23E995960"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B06631BD-137C-4B4A-B81D-01B6DA7343E1",
+      "overrideName": "CC45AA53-0F27-4961-B62E-804DFA57C221/8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
+      "value": "지금 리필하기"
     }
   ],
   "resizingConstraint": 37,
@@ -89,6 +89,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CAF3355A-91C4-4221-9DAB-7395BB9EB765",
+  "symbolID": "11B261F5-129F-43D5-AE63-C9DFCE405F99",
   "verticalSpacing": 0
 }

@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EF6C7EB4-1923-4FDB-BD7E-1CFAE0C09241",
+  "do_objectID": "CC45AA53-0F27-4961-B62E-804DFA57C221",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3FBE1295-7732-4E9F-AE94-A14E31928725",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "97F277FA-58F4-4BAB-A066-6BAFAA99F8E4",
     "height": 56,
-    "width": 311,
-    "x": 0,
-    "y": 0
+    "width": 343,
+    "x": 16,
+    "y": 16
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / fill / brand",
-  "nameIsFixed": true,
+  "name": "btn / basic",
+  "nameIsFixed": false,
   "overrideValues": [
   ],
   "resizingConstraint": 18,
@@ -66,11 +68,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "88D78698-EBF5-4AA6-8D53-54136BC8D8EF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7B8AB390-9F3D-4594-9220-F7F9336FBC68",
+  "symbolID": "BD261668-417F-4D5D-82F2-4AF508135AF4",
   "verticalSpacing": 0
 }
