@@ -58,6 +58,18 @@
   "name": "smartbins / details / typeOfPills",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD2AD672-7FBA-4624-9B95-D2C81E477ABD",
+      "overrideName": "4FDB1A60-C9EE-455F-BB71-C84F50FE567E_stringValue",
+      "value": "Vitamin C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EBC09CC2-3AD5-4456-A4F6-9E452B7F460F",
+      "overrideName": "BC359C9A-90CE-4DEA-B136-B8AB896F0F23_stringValue",
+      "value": "60정"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
