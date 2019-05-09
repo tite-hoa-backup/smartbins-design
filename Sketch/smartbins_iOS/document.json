@@ -36922,6 +36922,390 @@
         }
       },
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignSymbol",
+      "libraryID": "6B39BFC3-099D-492A-BD2B-6857047A01AA",
+      "originalMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "do_objectID": "29C7EF27-A005-4DA5-9133-6AF39F416516",
+          "green": 0.2,
+          "red": 0.2
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 3170,
+        "clippingMaskMode": 0,
+        "do_objectID": "7B975EAE-5F14-4016-98AB-912D0E34C74B",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "A1B41FF7-7FA0-41BA-A76A-DB73BEAA9F52",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "C3F00236-BB34-4E89-B367-0B902FC4F8F4",
+          "height": 24,
+          "width": 24,
+          "x": 15,
+          "y": 248
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout",
+          "do_objectID": "C665BA44-958E-4A46-9AE3-35E89BF37BF7"
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "87B12CF6-ED2B-41D6-9837-644A9FF6A6B4",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": false,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 2,
+        "layers": [
+          {
+            "_class": "symbolInstance",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "00E292DE-4716-48BF-A64D-316BFAA65C97",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 24,
+              "width": 24,
+              "x": 0,
+              "y": 0
+            },
+            "hasClippingMask": false,
+            "horizontalSpacing": 0,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": true,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "-g-activity / header / ic / dropdown-grey",
+            "nameIsFixed": false,
+            "overrideValues": [
+            ],
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": 0,
+            "scale": 1,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            },
+            "symbolID": "F0655385-DCE5-4CE1-A185-82A5CA5F6135",
+            "verticalSpacing": 0
+          }
+        ],
+        "name": "-g-activity / header / ic / dropdown-grey-reverse",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": true,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "1D75726E-3A06-487F-A6DB-D8C13C5089DD",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.2,
+                      "green": 0.2,
+                      "red": 0.2
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "C5C641C9-8657-4199-8684-048F44A737D7",
+        "userInfo": {
+          "com.invisionlabs.library": {
+            "version": 4
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "DE0D8DD9-3F63-44E9-B043-448C066AB589",
+          "guides": [
+          ]
+        }
+      },
+      "sourceLibraryName": "tite-launcher",
+      "symbolMaster": {
+        "_class": "symbolMaster",
+        "allowsOverrides": true,
+        "backgroundColor": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "do_objectID": "29C7EF27-A005-4DA5-9133-6AF39F416516",
+          "green": 0.2,
+          "red": 0.2
+        },
+        "booleanOperation": 0,
+        "changeIdentifier": 3171,
+        "clippingMaskMode": 0,
+        "do_objectID": "7B975EAE-5F14-4016-98AB-912D0E34C74B",
+        "exportOptions": {
+          "_class": "exportOptions",
+          "do_objectID": "A1B41FF7-7FA0-41BA-A76A-DB73BEAA9F52",
+          "exportFormats": [
+          ],
+          "includedLayerIds": [
+          ],
+          "layerOptions": 0,
+          "shouldTrim": false
+        },
+        "frame": {
+          "_class": "rect",
+          "constrainProportions": false,
+          "do_objectID": "C3F00236-BB34-4E89-B367-0B902FC4F8F4",
+          "height": 24,
+          "width": 24,
+          "x": 15,
+          "y": 248
+        },
+        "groupLayout": {
+          "_class": "MSImmutableFreeformGroupLayout",
+          "do_objectID": "C665BA44-958E-4A46-9AE3-35E89BF37BF7"
+        },
+        "hasBackgroundColor": false,
+        "hasClickThrough": true,
+        "hasClippingMask": false,
+        "horizontalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "87B12CF6-ED2B-41D6-9837-644A9FF6A6B4",
+          "guides": [
+          ]
+        },
+        "includeBackgroundColorInExport": false,
+        "includeBackgroundColorInInstance": false,
+        "includeInCloudUpload": true,
+        "isFixedToViewport": false,
+        "isFlippedHorizontal": false,
+        "isFlippedVertical": false,
+        "isFlowHome": false,
+        "isLocked": false,
+        "isVisible": true,
+        "layerListExpandedType": 2,
+        "layers": [
+          {
+            "_class": "symbolInstance",
+            "booleanOperation": -1,
+            "clippingMaskMode": 0,
+            "do_objectID": "00E292DE-4716-48BF-A64D-316BFAA65C97",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
+            "frame": {
+              "_class": "rect",
+              "constrainProportions": false,
+              "height": 24,
+              "width": 24,
+              "x": 0,
+              "y": 0
+            },
+            "hasClippingMask": false,
+            "horizontalSpacing": 0,
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": true,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "-g-activity / header / ic / dropdown-grey",
+            "nameIsFixed": false,
+            "overrideValues": [
+            ],
+            "resizingConstraint": 45,
+            "resizingType": 0,
+            "rotation": 0,
+            "scale": 1,
+            "shouldBreakMaskChain": false,
+            "style": {
+              "_class": "style",
+              "endMarkerType": 0,
+              "miterLimit": 10,
+              "startMarkerType": 0,
+              "windingRule": 1
+            },
+            "symbolID": "93CA0C57-8CCA-4F78-BE27-91B12AA732D5",
+            "verticalSpacing": 0
+          }
+        ],
+        "name": "-g-activity / header / ic / dropdown-grey-reverse",
+        "nameIsFixed": true,
+        "overrideProperties": [
+        ],
+        "resizesContent": true,
+        "resizingConstraint": 63,
+        "resizingType": 0,
+        "rotation": 0,
+        "shouldBreakMaskChain": true,
+        "style": {
+          "_class": "style",
+          "do_objectID": "1D75726E-3A06-487F-A6DB-D8C13C5089DD",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "fillType": 0,
+              "gradient": {
+                "_class": "gradient",
+                "elipseLength": 0,
+                "from": "{0.5, 0}",
+                "gradientType": 0,
+                "stops": [
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 1,
+                      "green": 1,
+                      "red": 1
+                    },
+                    "position": 0
+                  },
+                  {
+                    "_class": "gradientStop",
+                    "color": {
+                      "_class": "color",
+                      "alpha": 1,
+                      "blue": 0.2,
+                      "green": 0.2,
+                      "red": 0.2
+                    },
+                    "position": 1
+                  }
+                ],
+                "to": "{0.5, 1}"
+              },
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        },
+        "symbolID": "731198E4-59BA-4FB9-B1D1-8E4C144BE0A8",
+        "userInfo": {
+          "com.invisionlabs.library": {
+            "version": 4
+          }
+        },
+        "verticalRulerData": {
+          "_class": "rulerData",
+          "base": 0,
+          "do_objectID": "DE0D8DD9-3F63-44E9-B043-448C066AB589",
+          "guides": [
+          ]
+        }
+      },
+      "symbolPrivate": false
     }
   ],
   "foreignTextStyles": [

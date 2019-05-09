@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0619373-7073-4D40-80C6-06CD6D728971",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D33833A4-C120-4183-8783-B1CF49D55EF8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5BABCC1C-DE1E-480E-8261-CD3C25F80B45",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 619
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tab / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF49D096-E158-4EF5-B7A6-ED6376722178",
+      "overrideName": "F9DFC4E4-C5B7-4F1F-8621-DEF06D942EA0_symbolID",
+      "value": "8AE19629-2F23-4D89-8590-4BF7BC50EA4F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "51645916-CED4-4102-92BE-2B31F102FBB0",
+      "overrideName": "F9DFC4E4-C5B7-4F1F-8621-DEF06D942EA0/EA6485FA-1BED-4A40-A7DE-C6B70A91A96D_stringValue",
+      "value": "홈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "125795E8-9A87-4D20-9486-3F239C6CB5B7",
+      "overrideName": "F3E035C8-A3D2-4564-9CA8-7599FB8FFA2B/53518D88-2327-47E5-9496-172726F55FB5_stringValue",
+      "value": "스마트빈"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EC54365-C3EE-4AB2-93BF-F458BAF5AD34",
+      "overrideName": "B1ABE066-FF8F-4E4D-8883-947E9D73279D/53518D88-2327-47E5-9496-172726F55FB5_stringValue",
+      "value": "보고서"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3384559-18C4-420F-BBD7-436E6CBC74F4",
+      "overrideName": "5F5D388C-8DC2-4E04-999B-5718A39E6FA2/53518D88-2327-47E5-9496-172726F55FB5_stringValue",
+      "value": "설정"
+    }
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C492EE11-F3F3-4328-A4AD-71ADBE46814F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C3AB201E-CE02-46B1-A1F2-CEE217C0AB0B",
+  "verticalSpacing": 0
+}

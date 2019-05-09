@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "502A49F5-E317-49E5-A96A-E33AEE8A4639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AD1BE88-A606-4D58-A96A-9235384B8EF2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF2FB5B6-A657-4D70-8D8A-6E57DAD06A16",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / calendar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37A2A415-E8F1-4114-BB68-13BEB1283398",
+      "overrideName": "7A0E7A82-75F3-4759-B833-57F5A6A0D74F_stringValue",
+      "value": "2019년 7월"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2CEA2522-552B-4E3C-B178-DC41B65EE124",
+      "overrideName": "2D49A71E-806B-4243-8445-5A7BD59F37BB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49475907-371F-4431-BF6C-1B7A7ED44F73",
+      "overrideName": "305BC47B-467F-49FC-9697-1FEEDC611FD9_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C38A108-C140-45A5-AFE5-33946853638C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AF0E2E60-B590-46A7-890D-9AAC18E9A502",
+  "verticalSpacing": 0
+}

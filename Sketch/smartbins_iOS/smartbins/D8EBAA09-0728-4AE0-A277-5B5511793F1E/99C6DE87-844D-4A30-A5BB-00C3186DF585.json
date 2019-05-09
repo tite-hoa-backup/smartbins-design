@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99C6DE87-844D-4A30-A5BB-00C3186DF585",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CD1CD77-F1D6-4A58-97E9-444ACB29E0D8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29EDBE76-53F4-4B4D-96BF-0E93FFC81ADC",
+    "height": 60,
+    "width": 375,
+    "x": 1,
+    "y": 100
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / checkbox / subLabel",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AC3372B-9374-407B-A165-2DDD14DB41E3",
+      "overrideName": "5C44243C-8138-4F70-8A3B-45D47A402210_stringValue",
+      "value": "SmartBins RED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11F9272D-E1EB-4253-8D24-2FD981C90720",
+      "overrideName": "83973461-531F-468A-8C54-769CFC4B8154_stringValue",
+      "value": "SBV 1940"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "317FFB20-C45F-4DA8-96AD-AD3DAD2B602A",
+      "overrideName": "2A4616DD-C03B-46CC-91F8-514E0A63EC06/07F9E25C-8759-45C4-A603-6C37F416B502_symbolID",
+      "value": "1E53B0B1-521F-4683-BC4C-400A6FD838C6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EEDFFDA-98A9-4932-BF9D-236514C800A9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3239C686-4215-451D-B155-52F097D82D6A",
+  "verticalSpacing": 0
+}

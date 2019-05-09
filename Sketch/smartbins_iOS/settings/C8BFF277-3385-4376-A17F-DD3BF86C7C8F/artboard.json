@@ -35,7 +35,7 @@
     "do_objectID": "FB192241-6E6B-4619-AB18-B29F5D27140B"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,7 +67,7 @@
       "id": "50FB75EC-39DE-4AF0-980A-3C23A6491DF3"
     }
   ],
-  "name": "report / basic",
+  "name": "settings / basic",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,

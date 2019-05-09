@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "688CAC1C-77F9-4613-99A1-9B7AA0735FF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F8DF0A37-96A8-46C4-808C-E5890E4B5EE0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54D6B23B-FEFD-48D7-BD80-5D0D49D66F24",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1721D051-1F18-4683-B5CF-516B3118FB2E",
+      "overrideName": "633C3BFD-C3D3-4F5C-A5A5-88A6021A365C_stringValue",
+      "value": "새로운 스마트빈 스캔"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C2BB01F9-098E-485F-949D-D5D09469A99D",
+      "overrideName": "47E92DDD-B374-46A0-B776-DA09466D66D6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6476F2F3-862E-436D-82FC-64082379F9E2",
+      "overrideName": "1EDE3385-F177-4B16-82DF-AC4D150559CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2EFF3CF-AB62-4FCC-A2AE-AF025E7AD4BB",
+      "overrideName": "5081A9B2-8819-4BB9-9AA7-088BF91742A0/07F9E25C-8759-45C4-A603-6C37F416B502_symbolID",
+      "value": "C4475E51-43EC-460A-8400-4B98C92A29F3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDD5EC79-4583-4D4E-9D1C-77597EC13D87",
+      "overrideName": "F94B400B-77DD-43B2-B6F1-B48FF39B5177_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CAA3D159-CAFF-4128-A239-1639AE74CB40",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D4618127-C3CA-478F-812D-54D032A7701D",
+  "verticalSpacing": 0
+}

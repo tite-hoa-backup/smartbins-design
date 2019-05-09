@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DC5E9A4C-AAD8-4A85-8BED-4B68364B879F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B2790B6-8ED9-46B5-9DB1-A8E10BF5660D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "717C57F9-0EA2-411A-861C-677E6A103BFB",
+    "height": 41,
+    "width": 375,
+    "x": 0,
+    "y": 313
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "subtitle / 2_lines",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "896A2973-003E-4B06-9FEA-E278697C51DF",
+      "overrideName": "96ADD80F-58FD-451A-8CA7-BE39ABC4B492_stringValue",
+      "value": "주변에 연결 가능한 스마트빈이 없습니다\n아래의 버튼을 눌러서 스캔을 다시 시도해주세요"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C00A819-3D9E-4D77-B44A-3878FC03EB1A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FCE2CA21-772F-4571-B6DF-31AC317947D6",
+  "verticalSpacing": 0
+}
