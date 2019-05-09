@@ -1,0 +1,159 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D8F33E5-9E5C-4AEC-8BF0-A56345A21F47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D12CE25-C468-41BC-B02D-4E6F05B82FBB",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C5308BCC-B2AD-415A-B4BE-F788FE2E1A29",
+    "height": 192,
+    "width": 375,
+    "x": 0,
+    "y": 612
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / belowList / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3020409-AE27-46B3-965B-8724ABF3874D",
+      "overrideName": "FFE5456F-C9AE-4CC8-BB53-8B30D055A708/DBCAE53C-EFA4-432A-8C33-024749CCAA00_stringValue",
+      "value": "오늘 복용한 알약"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86EC8CF7-4F20-4EE2-9879-74A9A20996EA",
+      "overrideName": "FFE5456F-C9AE-4CC8-BB53-8B30D055A708/DBCAE53C-EFA4-432A-8C33-024749CCAA00_textStyle",
+      "value": "6B8F6784-26DB-45C9-844D-FBB67B29ADD2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18DAD195-C1CF-4304-8BB4-55CDDB969C4A",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B_symbolID",
+      "value": "88555C54-932B-4CC1-B60A-3711A5D9499F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "694F48A4-5871-4500-8112-26E45C0A6194",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/C9F8D511-3C39-4A87-8D91-4628EE3C0EB1_stringValue",
+      "value": "Vitamin D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "988EC5CC-18CE-4437-B393-1C013CC0518B",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/25D9ABDC-69A1-4B9B-B1A6-2BC5BB1DB056_stringValue",
+      "value": "하루 1회 1정 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9501AF9F-39CE-4B17-8F47-955C7916A040",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42_symbolID",
+      "value": "88555C54-932B-4CC1-B60A-3711A5D9499F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43FDD8F3-0446-4960-B624-18D1610FC9E0",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/C9F8D511-3C39-4A87-8D91-4628EE3C0EB1_stringValue",
+      "value": "Claritin"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84D1C5DC-8054-4A34-9FCE-FCEF8B1CF17E",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/25D9ABDC-69A1-4B9B-B1A6-2BC5BB1DB056_stringValue",
+      "value": "하루 1회 1정 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FB611D8-2BB0-471F-A87F-E7D8F7B0184C",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/6FA2B844-3572-4BCE-AB45-D30378F7BF55_stringValue",
+      "value": "오전 09:30 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42C37AD2-08A1-464A-A740-58A2EBE968EE",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/6FA2B844-3572-4BCE-AB45-D30378F7BF55_stringValue",
+      "value": "오전 09:00 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF212579-A8E9-4808-AD31-6FC6F9B60A91",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/9E36D78E-3CDB-4FEE-AD8A-6D674DF0EE96/CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a8317c2c5ef22d06ae90d0857fe98cb21d02df23.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24B3978C-FE28-449D-8242-67B14DFDADC8",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/9E36D78E-3CDB-4FEE-AD8A-6D674DF0EE96/CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/81b8ff06f00e4e082b1bc100b74ef0b76d43f436.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24D65E53-8407-40AC-A559-2C1B47AE0468",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AB38061-3981-4B9C-8EC2-8EA1407A974D",
+  "verticalSpacing": 0
+}

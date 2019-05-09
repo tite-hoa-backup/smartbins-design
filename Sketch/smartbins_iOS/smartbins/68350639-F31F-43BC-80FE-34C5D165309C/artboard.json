@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "B9EBD4AD-B384-4D87-8CF4-C95740CF6381",
-    "green": 1,
-    "red": 1
+    "blue": 0.9568627450980391,
+    "green": 0.9568627450980391,
+    "red": 0.9568627450980391
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -61,6 +60,14 @@
     {
       "class": "symbolInstance",
       "id": "02FB4112-DC1A-438F-BC2A-019CF049ED89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "30B94908-73B1-407C-A921-AE986332CE0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7FFE987-679A-42A4-AD9F-224EE3667EBE"
     }
   ],
   "name": "smartbins / details",

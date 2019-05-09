@@ -63,6 +63,12 @@
       "do_objectID": "146150F1-BEA3-462D-8E58-53E81637746B",
       "overrideName": "29F86AFE-EF7F-476E-A0AD-37E83A2887A9_stringValue",
       "value": "나의 SmartBins"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "077F16A9-E6A6-4A77-AE7C-C96D86D7E291",
+      "overrideName": "274D529A-8C8E-49A0-AD74-1069751D18F9_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,

@@ -6,6 +6,33 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -28,9 +55,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "list / smartbins / thumbnail",
-  "nameIsFixed": false,
+  "name": "smartbins / details / header / thumbnail",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5A61E3E8-1083-49C8-8BBD-3B67AD981D40",
+      "overrideName": "CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e6275f95461e807c65c15f5b0b5fa1617a25cd36.png",
+        "_ref_class": "MSImageData"
+      }
+    }
   ],
   "resizingConstraint": 9,
   "resizingType": 0,
@@ -44,6 +81,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7E31BC4E-C91A-4B75-8D5C-205EAC5E432B",
+  "symbolID": "B8DE6BBA-E3BF-405B-84C7-84EB066FDD3E",
   "verticalSpacing": 0
 }

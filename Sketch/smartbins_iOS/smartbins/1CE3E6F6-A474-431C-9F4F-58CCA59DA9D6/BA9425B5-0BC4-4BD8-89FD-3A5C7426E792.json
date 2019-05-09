@@ -45,7 +45,7 @@
     "height": 96,
     "width": 375,
     "x": 0,
-    "y": 260
+    "y": 268
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -91,6 +91,16 @@
       "do_objectID": "6C419C70-F63B-48A2-869A-B4D4290FF6FA",
       "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_textStyle",
       "value": "8914986B-4F3B-43A8-A4D8-3FE1EAB9531C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A069BCB4-6344-4059-B1AF-4B5E47A9E239",
+      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cfcb9b5bacc94861a32d26d8d849db2b961d3c51.png",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "resizingConstraint": 63,

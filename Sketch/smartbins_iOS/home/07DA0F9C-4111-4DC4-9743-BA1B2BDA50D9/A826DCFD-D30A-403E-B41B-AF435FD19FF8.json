@@ -1,0 +1,133 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A826DCFD-D30A-403E-B41B-AF435FD19FF8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2A00781C-4484-47E0-B668-ED1770E21CBD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E92366EB-1EB8-4BF0-9D16-53F47D7ABF23",
+    "height": 192,
+    "width": 375,
+    "x": 0,
+    "y": 412
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar / belowList / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3020409-AE27-46B3-965B-8724ABF3874D",
+      "overrideName": "FFE5456F-C9AE-4CC8-BB53-8B30D055A708/DBCAE53C-EFA4-432A-8C33-024749CCAA00_stringValue",
+      "value": "아직 복용하지 않음"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA76DD77-D38F-4ED5-842E-41C40BD8F8C8",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/C9935AA0-BA10-48CC-A888-5718150CDC2B_stringValue",
+      "value": "Omega 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC892D0F-1DAA-4E15-9D06-791FF714D1E3",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/B79F9B1C-CE01-4217-AEAB-319451269595_stringValue",
+      "value": "하루 1회 1정 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7CA3A93-940F-4BAD-8C45-684AA164DAF4",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B_symbolID",
+      "value": "27020B9A-9772-4316-A750-1CEB2A5314B3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6034B58F-2992-4BAA-80C9-AD6F9308024E",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/91C627AD-EB6D-431E-B76A-FC350C37C62D_stringValue",
+      "value": "Vitamin C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6C3829DB-1F65-4B6D-898C-F6CFE1BC684D",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/8D35EDA4-7AEE-4ACC-8442-D1BFC35ED56A_stringValue",
+      "value": "하루 1회 2정 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "514CD472-9EDA-4DCB-89E7-1A87FD662156",
+      "overrideName": "3E907B56-DA61-4921-B2B5-6150BB839A42/5BCC2973-D427-4443-9EB5-143CB0B246B5_stringValue",
+      "value": "0/1정 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F47497E-DEDB-44ED-A2B0-D3D05E832D57",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/0BDCAD7E-8735-42B0-A3E8-55248BBEEE60_stringValue",
+      "value": "오전 09:00 복용"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BC956B3-198A-4319-ACA2-07A9ED4CEE83",
+      "overrideName": "C321F078-FA1A-4F1D-9E93-E38438C6CE9B/F91F736F-98BA-413B-91E7-064D2B701BE6_stringValue",
+      "value": "1/2정 복용"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "991F51AF-2C5C-4BCD-9E8A-C482D9DE6C64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AB38061-3981-4B9C-8EC2-8EA1407A974D",
+  "verticalSpacing": 0
+}
