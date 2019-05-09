@@ -1,0 +1,115 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A10515CE-6B1D-4716-81B8-47DBD5DB4E8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59B76BB6-884A-4B37-9681-B3EAA7C5DA69",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECFF97B9-9DA4-460F-9616-6DA3BC624139",
+    "height": 160,
+    "width": 375,
+    "x": 0,
+    "y": 275
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "settings / list / 2Lists",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EF3CD66E-C4E3-4184-A2E6-3EA39D0F3B22",
+      "overrideName": "F3062A45-70B9-43EE-90FF-572992490CC7/73DB54C6-010C-4A4E-84FC-546EEF2F8101_stringValue",
+      "value": "월간 보고서"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7A3D8B77-D3A6-49E8-92ED-101764659947",
+      "overrideName": "61FBADB1-E0B6-42E2-8DDE-AE1C235E108F/750AAE90-C427-4711-96F8-6058317BC605_stringValue",
+      "value": "보고서 사용설정"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4696EFB4-3F53-4F60-844D-1B3531D2DF26",
+      "overrideName": "3A2A8B34-2ABB-4CD4-B3AC-12B4692E2E24_symbolID",
+      "value": "B5770B21-A5AB-41CD-B9F1-25E986D90767"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E8004705-CBD3-4DC5-9B7A-0D9DD565450D",
+      "overrideName": "3A2A8B34-2ABB-4CD4-B3AC-12B4692E2E24/4CA42A0D-F9E8-4094-9856-2CF3B800C2B6_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2810BCEC-B47F-4E01-A145-CDFBC844DD6E",
+      "overrideName": "3A2A8B34-2ABB-4CD4-B3AC-12B4692E2E24/6AC9EA0E-FAE8-4CB4-878A-BAD212F7BB8A_stringValue",
+      "value": "시작 요일설정"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D3EBA98-E4D1-448F-9B5F-26A08D3E5335",
+      "overrideName": "3A2A8B34-2ABB-4CD4-B3AC-12B4692E2E24/6A348BD2-9314-4054-99A4-5AA39639E103_stringValue",
+      "value": "일요일"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE401928-6FAA-4F38-8C73-51EAD08538DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1B1CFE51-9398-43BD-9AE6-FA2BBCB53207",
+  "verticalSpacing": 0
+}

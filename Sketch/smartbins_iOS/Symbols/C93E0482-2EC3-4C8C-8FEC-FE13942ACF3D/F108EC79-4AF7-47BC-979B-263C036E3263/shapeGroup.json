@@ -44,10 +44,10 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "09C65B55-B85C-4C7C-8EA6-8AE91C14291E",
-    "height": 12,
-    "width": 24,
+    "height": 16,
+    "width": 32,
     "x": 0,
-    "y": 6
+    "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -85,7 +85,7 @@
       "do_objectID": "3175BF6B-DF8A-4DBC-AFEB-369F6EC5D970",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 12,
+      "radius": 16,
       "saturation": 1,
       "type": 0
     },

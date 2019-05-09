@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1048,
+  "changeIdentifier": 1083,
   "clippingMaskMode": 0,
   "do_objectID": "4A805A80-9230-4A75-9114-26959D3D3C32",
   "exportOptions": {
@@ -95,6 +95,10 @@
     {
       "class": "symbolInstance",
       "id": "FFE5456F-C9AE-4CC8-BB53-8B30D055A708"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A70F0479-6259-4B5C-B4D4-CDCA2A344DE4"
     }
   ],
   "name": "calendar / belowList / basic",
@@ -114,6 +118,11 @@
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
       "overrideName": "FFE5456F-C9AE-4CC8-BB53-8B30D055A708_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A70F0479-6259-4B5C-B4D4-CDCA2A344DE4_symbolID"
     }
   ],
   "resizesContent": true,

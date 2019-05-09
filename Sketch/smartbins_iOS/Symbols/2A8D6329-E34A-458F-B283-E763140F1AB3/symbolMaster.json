@@ -1,0 +1,158 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "ECB274D6-61A9-4E03-9BE0-92CDA28D1FBD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1536,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A8D6329-E34A-458F-B283-E763140F1AB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03C15EDA-AED3-4A28-8D44-3894FF137120",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D57E26E-B153-41F3-A23B-B223D22F12DE",
+    "height": 208,
+    "width": 375,
+    "x": 5792,
+    "y": 320
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F2BE1691-BC54-44A1-A7A3-563DC66DF5D7"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8BDEBAF2-7718-4934-91AF-0FAB5453639F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7C09CFF0-E8AA-4294-8B62-BACF345590ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "927A2F3B-21EE-48BD-B929-F4FD281428D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EABFAF4A-50F4-49A9-90E1-4FC0D145BD01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0C23DEA-AD36-41BC-AC2E-BA9066C25F1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D1601CC-D93E-4549-AB43-87ABC0B339BA"
+    }
+  ],
+  "name": "settings / list / 3Lists",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "927A2F3B-21EE-48BD-B929-F4FD281428D7_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B0C23DEA-AD36-41BC-AC2E-BA9066C25F1E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C09CFF0-E8AA-4294-8B62-BACF345590ED_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6D1601CC-D93E-4549-AB43-87ABC0B339BA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "EABFAF4A-50F4-49A9-90E1-4FC0D145BD01_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C78C56C-2BF7-4B36-AEB7-8AF16878CD3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A2F9B375-5E63-41B1-851B-2C61D7945E17",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A57FF44-B5C5-473B-AB95-2B52B6750190",
+    "guides": [
+    ]
+  }
+}

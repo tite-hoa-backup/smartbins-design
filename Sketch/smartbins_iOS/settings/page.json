@@ -42,6 +42,18 @@
     {
       "class": "artboard",
       "id": "C8BFF277-3385-4376-A17F-DD3BF86C7C8F"
+    },
+    {
+      "class": "artboard",
+      "id": "8D05428A-6444-4923-8354-E7E0F260E4D1"
+    },
+    {
+      "class": "artboard",
+      "id": "374826BD-262F-4F97-BC17-7DB1A853EC0C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E6C8775E-57D0-469E-97D2-7F62B8899403"
     }
   ],
   "name": "settings",

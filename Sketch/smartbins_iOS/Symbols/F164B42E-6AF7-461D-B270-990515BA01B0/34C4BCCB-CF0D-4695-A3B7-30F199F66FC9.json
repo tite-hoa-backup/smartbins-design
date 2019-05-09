@@ -57,8 +57,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "smartbins / details / setDosage Copy",
-  "nameIsFixed": false,
+  "name": "smartbins / details / setDosage",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

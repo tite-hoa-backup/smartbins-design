@@ -54,7 +54,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "name": "smartbins / details / header",
   "nameIsFixed": false,
   "overrideValues": [
@@ -74,6 +74,12 @@
       "_class": "overrideValue",
       "do_objectID": "D0649686-EBFB-4B95-9AA4-5064B9A66433",
       "overrideName": "0EED0E9E-E956-4285-8268-333C4EA0BEE1_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E60BD22B-F9A4-44B4-A07E-956501F02B39",
+      "overrideName": "5D66C6F5-6892-4521-B36C-2E7F6031B958_symbolID",
       "value": ""
     }
   ],

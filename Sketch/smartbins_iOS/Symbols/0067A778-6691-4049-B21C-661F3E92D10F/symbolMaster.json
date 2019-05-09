@@ -10,7 +10,7 @@
     "red": 0.2
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3019,
+  "changeIdentifier": 3218,
   "clippingMaskMode": 0,
   "do_objectID": "0067A778-6691-4049-B21C-661F3E92D10F",
   "exportOptions": {
@@ -54,10 +54,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "435934CD-6AA3-4D28-8667-4744D7DB0EC3",
-    "height": 24,
-    "width": 24,
-    "x": 5027,
-    "y": -380
+    "height": 32,
+    "width": 32,
+    "x": 2319,
+    "y": 429
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -100,6 +100,15 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "saturation": 1,
+      "type": 0
+    },
     "do_objectID": "E0DD553A-7C62-4435-9960-D6FE81D6C03E",
     "endMarkerType": 0,
     "fills": [

@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C54F8AFC-7262-4AB0-8DEB-B4EF82483C04",
-    "height": 7.199999999999999,
-    "width": 7.199999999999999,
-    "x": 14.4,
-    "y": 2.4
+    "height": 9.599999999999998,
+    "width": 9.599999999999998,
+    "x": 19.2,
+    "y": 3.2
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -88,7 +88,7 @@
       "do_objectID": "D767A6E4-490D-4F5E-AF08-B029EEF2468C",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 12,
+      "radius": 16,
       "saturation": 1,
       "type": 0
     },

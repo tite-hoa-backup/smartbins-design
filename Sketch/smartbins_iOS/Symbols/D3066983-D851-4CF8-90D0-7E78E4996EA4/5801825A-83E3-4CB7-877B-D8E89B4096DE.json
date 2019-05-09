@@ -62,15 +62,21 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C56120C8-FABA-4A11-B83C-2E240604EB11",
-      "overrideName": "15F0E4A9-CC1D-411B-8758-69660731E919/07F9E25C-8759-45C4-A603-6C37F416B502_symbolID",
-      "value": "DF9B5E77-0C5C-4964-9682-6EEFBF7BBF3B"
-    },
-    {
-      "_class": "overrideValue",
       "do_objectID": "B33ABF0D-33E8-4CA0-AB09-3B8303ED8AB0",
       "overrideName": "1233D142-7BB6-43F5-A5EA-40C50EB66A28_stringValue",
       "value": "자동으로 리필"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F79093D-EFA3-4BB7-AA7E-2A327AEBBA8E",
+      "overrideName": "15F0E4A9-CC1D-411B-8758-69660731E919_symbolID",
+      "value": "2E06B428-9022-48D4-8378-96B56CA8A1DC"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D7FB4E7-F8DC-4E0F-BEA0-AF44787B5420",
+      "overrideName": "15F0E4A9-CC1D-411B-8758-69660731E919/4BE3D81B-083F-4D4F-B986-AD85077C238D_symbolID",
+      "value": "DF9B5E77-0C5C-4964-9682-6EEFBF7BBF3B"
     }
   ],
   "resizingConstraint": 13,

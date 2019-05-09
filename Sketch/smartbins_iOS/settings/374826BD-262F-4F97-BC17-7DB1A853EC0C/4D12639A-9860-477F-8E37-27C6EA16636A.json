@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D12639A-9860-477F-8E37-27C6EA16636A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 270,
+    "x": 53,
+    "y": 286
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Alerts/Default 1 Line Title Only",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2BF128FB-0D34-4BD4-8D88-B335F4CCF6AA",
+      "overrideName": "DA3C8153-B0BF-4571-8C2F-8826A4CA55D6_stringValue",
+      "value": "로그아웃 하시겠습니까?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3C5FED0-84EF-4C59-8B60-131A43B33850",
+      "overrideName": "C2AD10AA-776E-4C1A-B732-279733CB9AE9/426F63F7-EDDB-46D5-8C8F-BDA74CB43E9A_stringValue",
+      "value": "취소"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61C1CC16-43BD-4696-8291-12BF6CC11FA8",
+      "overrideName": "C2AD10AA-776E-4C1A-B732-279733CB9AE9/86B0D413-B69C-4EF8-BE69-167232960DE2_stringValue",
+      "value": "로그아웃"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FC7898FE-806C-445B-9C08-52EA6967337A",
+  "verticalSpacing": 0
+}
