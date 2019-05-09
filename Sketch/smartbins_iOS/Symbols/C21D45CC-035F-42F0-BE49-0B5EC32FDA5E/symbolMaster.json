@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1074,
+  "changeIdentifier": 1095,
   "clippingMaskMode": 0,
   "do_objectID": "C21D45CC-035F-42F0-BE49-0B5EC32FDA5E",
   "exportOptions": {
@@ -73,8 +73,8 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

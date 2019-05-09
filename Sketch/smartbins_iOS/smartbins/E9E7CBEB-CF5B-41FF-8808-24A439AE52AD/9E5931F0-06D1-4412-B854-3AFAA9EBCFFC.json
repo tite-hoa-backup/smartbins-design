@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A7FFE987-679A-42A4-AD9F-224EE3667EBE",
+  "do_objectID": "9E5931F0-06D1-4412-B854-3AFAA9EBCFFC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9A8E8876-B348-47B9-A09E-8912EEA76BDB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -42,10 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 364,
+    "do_objectID": "A7B0C787-E390-4A5D-881B-655A8A366C39",
+    "height": 48,
     "width": 375,
     "x": 0,
-    "y": 148
+    "y": 503
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -55,9 +57,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "smartbins / details / info",
+  "name": "list / title",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8996F84D-199C-417E-B120-93882FC20BBE",
+      "overrideName": "73DB54C6-010C-4A4E-84FC-546EEF2F8101_stringValue",
+      "value": "SmartBin RED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9AAA0878-EDC8-453C-A5F4-ECF1A1276E38",
+      "overrideName": "3B74F797-1B22-4847-939E-BD4037FB7EBF_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -66,11 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "91784BC0-F99C-44AD-A26B-9D3330364C5F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F27A6C22-A1A4-4D9B-A690-4265A81265DF",
+  "symbolID": "1F51A2B1-03B3-4CB4-9294-4AAA84973C49",
   "verticalSpacing": 0
 }

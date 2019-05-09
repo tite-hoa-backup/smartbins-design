@@ -1,11 +1,11 @@
 {
   "_class": "symbolInstance",
-  "booleanOperation": 0,
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "37806226-9874-4144-9C7E-2F880F88E566",
+  "do_objectID": "7BF76203-B041-4A31-9C0A-4E2BFF65281C",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4CE1964F-B173-43EB-B71F-DAE8A0F47E53",
+    "do_objectID": "654B274F-0564-40D9-B794-281162D62A0D",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "D09DBA5D-CEC5-4DA3-9244-73D01646723E",
-    "height": 20,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "do_objectID": "DA841A3A-DBBE-4BB8-9EE8-604C054B2102",
+    "height": 48,
+    "width": 311,
+    "x": 32,
+    "y": 164
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,10 +57,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bars/Status Bar/Light Status Bar",
+  "name": "form / basic",
   "nameIsFixed": false,
-  "originalObjectID": "4990C942-454A-42D0-B4A8-48A54E4FB400",
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4C7E40E-F1AB-49C1-958D-0CC5D1916D86",
+      "overrideName": "C2BD625F-08C0-428C-A7A2-1444E39F90E4_stringValue",
+      "value": "010 2938 4756"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "737307BA-9526-4EE0-BE15-AA593CD0CA66",
+      "overrideName": "C2BD625F-08C0-428C-A7A2-1444E39F90E4_textStyle",
+      "value": "9215DB48-5373-4D91-829E-E0F378F461A8"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,
@@ -69,12 +80,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "2F21CEAC-3302-45AB-9E49-FB360E6BCF43",
+    "do_objectID": "0ACCA6BA-4075-4682-A9EA-242BFDDB6776",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CD044E2E-9977-49E1-9B2A-DB89D9B2F72D",
+  "symbolID": "45F0A189-F01A-448A-B1D4-E73AFB403648",
   "verticalSpacing": 0
 }

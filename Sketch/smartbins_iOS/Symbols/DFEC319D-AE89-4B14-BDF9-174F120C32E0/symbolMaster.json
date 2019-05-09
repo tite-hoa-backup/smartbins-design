@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1252,
+  "changeIdentifier": 1293,
   "clippingMaskMode": 0,
   "do_objectID": "DFEC319D-AE89-4B14-BDF9-174F120C32E0",
   "exportOptions": {
@@ -108,6 +108,11 @@
   "name": "smartbins / details / header",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5D66C6F5-6892-4521-B36C-2E7F6031B958_symbolID"
+    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
