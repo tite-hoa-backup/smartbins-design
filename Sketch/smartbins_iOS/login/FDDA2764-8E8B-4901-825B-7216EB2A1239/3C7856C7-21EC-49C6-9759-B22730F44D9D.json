@@ -45,7 +45,7 @@
     "height": 56,
     "width": 311,
     "x": 32,
-    "y": 447
+    "y": 455
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -58,6 +58,12 @@
   "name": "btn / basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "036C8D7A-4A95-4DE1-A0B2-18854EC8D976",
+      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
+      "value": "회원가입"
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

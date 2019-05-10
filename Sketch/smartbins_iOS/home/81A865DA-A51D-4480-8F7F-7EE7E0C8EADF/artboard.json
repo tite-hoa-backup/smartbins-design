@@ -35,7 +35,7 @@
     "do_objectID": "4D6705C9-808F-43A0-9C2B-BB09E1D14383"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -68,7 +68,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D02483C1-03A1-4B2C-A506-C1DB1F62BBCF"
+      "id": "62FC9F3C-8B57-460E-8422-D080FBF373DF"
     },
     {
       "class": "symbolInstance",
