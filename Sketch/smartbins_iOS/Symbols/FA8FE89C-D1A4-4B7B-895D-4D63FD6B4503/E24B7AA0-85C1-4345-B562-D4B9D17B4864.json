@@ -62,7 +62,7 @@
   "layerListExpandedType": 0,
   "name": "base",
   "nameIsFixed": true,
-  "pointRadiusBehaviour": 1,
+  "pointRadiusBehaviour": 2,
   "points": [
     {
       "_class": "curvePoint",
