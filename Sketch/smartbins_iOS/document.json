@@ -17,7 +17,27 @@
         "_class": "MSImmutableColorAsset",
         "color": {
           "_class": "color",
+          "alpha": 0.2,
+          "blue": 1,
+          "green": 0.6,
+          "red": 0
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
           "alpha": 0.1,
+          "blue": 1,
+          "green": 0.6,
+          "red": 0
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
           "blue": 1,
           "green": 0.6,
           "red": 0
@@ -44,7 +64,21 @@
       },
       {
         "_class": "color",
+        "alpha": 0.2,
+        "blue": 1,
+        "green": 0.6,
+        "red": 0
+      },
+      {
+        "_class": "color",
         "alpha": 0.1,
+        "blue": 1,
+        "green": 0.6,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 0.05,
         "blue": 1,
         "green": 0.6,
         "red": 0
