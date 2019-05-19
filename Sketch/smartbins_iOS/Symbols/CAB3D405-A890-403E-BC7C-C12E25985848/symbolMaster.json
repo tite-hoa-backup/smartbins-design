@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1149,
+  "changeIdentifier": 1156,
   "clippingMaskMode": 0,
   "do_objectID": "CAB3D405-A890-403E-BC7C-C12E25985848",
   "exportOptions": {
@@ -73,8 +73,8 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,6 +92,11 @@
   "name": "smartbins / details / header / thumbnail",
   "nameIsFixed": true,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CEE51EB3-25C8-4D2A-A1BC-805112955994_image"
+    }
   ],
   "resizesContent": true,
   "resizingConstraint": 63,

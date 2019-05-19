@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1909,
+  "changeIdentifier": 1960,
   "clippingMaskMode": 0,
   "do_objectID": "AB743B49-4330-4449-931A-F47A9E8E2209",
   "exportOptions": {
@@ -57,7 +57,7 @@
     "height": 120,
     "width": 375,
     "x": 5317,
-    "y": 1240
+    "y": 1808
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
@@ -85,16 +85,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "F90AC1A4-3331-4EFD-BB9E-B1734C747CE2"
-    },
-    {
       "class": "text",
       "id": "4F9A950E-960A-467E-98B5-38EB7ABD597B"
     },
     {
       "class": "symbolInstance",
       "id": "0C4F2DB5-3492-45DD-AC92-C607C5964407"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F90AC1A4-3331-4EFD-BB9E-B1734C747CE2"
     }
   ],
   "name": "smartbins / details / historyEmpty",

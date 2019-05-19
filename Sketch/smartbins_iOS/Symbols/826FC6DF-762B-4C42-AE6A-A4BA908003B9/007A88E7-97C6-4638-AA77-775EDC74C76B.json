@@ -1,0 +1,97 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "007A88E7-97C6-4638-AA77-775EDC74C76B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8041C1A-99C7-4A65-8377-B26E56FEB6D0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AD5935E-1CE4-4AC1-A847-9861104171AD",
+    "height": 56,
+    "width": 167,
+    "x": 16,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E02DA164-6AF6-4D72-939C-206AE4C038F9",
+      "overrideName": "EF6C7EB4-1923-4FDB-BD7E-1CFAE0C09241_symbolID",
+      "value": "67422352-93B6-4500-BD9E-DC8531E37D1B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A472B62-3A87-459E-BFAD-46550657EBD1",
+      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_textStyle",
+      "value": "2CCD5727-BCAC-41D0-AD05-CBD23E995960"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3244C32A-AB2A-475A-A9D8-3C198BDAF104",
+      "overrideName": "8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
+      "value": "나중에"
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0121D82-3C54-4A1E-8237-6BF410F4833B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD261668-417F-4D5D-82F2-4AF508135AF4",
+  "verticalSpacing": 0
+}

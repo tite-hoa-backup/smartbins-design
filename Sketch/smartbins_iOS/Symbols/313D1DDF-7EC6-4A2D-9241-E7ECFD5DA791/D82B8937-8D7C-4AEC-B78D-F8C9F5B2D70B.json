@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D82B8937-8D7C-4AEC-B78D-F8C9F5B2D70B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BD54C96-0290-493F-BB37-46F60C215189",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52DDAF2E-02A4-42F3-9D71-2FE7CAAD0C07",
+    "height": 28,
+    "width": 375,
+    "x": 0,
+    "y": 168
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "smartbins / details / history / each / important",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0DED55AD-73FB-45A2-B0AF-C3895B8C003F",
+      "overrideName": "2C8CD033-D23F-4716-A3C7-1A318978AC8B_stringValue",
+      "value": "오전 09:31"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7BE80BB3-C280-4FF5-985D-CC0CAB8101ED",
+      "overrideName": "5451E37B-2A22-42BD-9CD3-1792623394CE_stringValue",
+      "value": "리필 감지됨"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "436609B3-676E-4108-9E8F-21BB6402C292",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8D3BEE8E-F153-40A9-ABF5-101D3F5F9415",
+  "verticalSpacing": 0
+}
