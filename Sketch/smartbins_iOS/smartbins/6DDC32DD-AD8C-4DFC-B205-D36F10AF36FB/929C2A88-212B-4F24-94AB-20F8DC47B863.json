@@ -47,7 +47,7 @@
     "height": 88,
     "width": 375,
     "x": 0,
-    "y": 531
+    "y": 579
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -67,7 +67,7 @@
       "value": "새로운 스마트빈 스캔"
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 37,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

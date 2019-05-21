@@ -71,6 +71,12 @@
       "do_objectID": "52BE3A34-B9FC-4E05-8891-9846D13A4FCA",
       "overrideName": "C2BD625F-08C0-428C-A7A2-1444E39F90E4_stringValue",
       "value": "서혁"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12903580-050E-4966-83AE-63AFF309F1A8",
+      "overrideName": "D06D9D78-D579-4AFD-8AF9-8136014C3C8D_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

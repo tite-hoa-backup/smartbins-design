@@ -65,6 +65,12 @@
       "do_objectID": "D4C7E40E-F1AB-49C1-958D-0CC5D1916D86",
       "overrideName": "C2BD625F-08C0-428C-A7A2-1444E39F90E4_stringValue",
       "value": "휴대폰 번호"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "672FFF08-CEAD-4B21-971C-FA0FA2D50417",
+      "overrideName": "D06D9D78-D579-4AFD-8AF9-8136014C3C8D_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

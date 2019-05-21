@@ -78,6 +78,14 @@
     {
       "class": "artboard",
       "id": "BFC1EECA-3907-498C-AF73-0CB95A5938B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F5E127BC-6CF3-4F6A-8980-F3C39754EE59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "647EF739-4E44-47B7-B917-2E3EB96E8D9A"
     }
   ],
   "name": "smartbins",

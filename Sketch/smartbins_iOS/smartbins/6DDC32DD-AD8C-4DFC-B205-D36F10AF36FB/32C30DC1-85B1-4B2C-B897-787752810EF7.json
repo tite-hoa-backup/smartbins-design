@@ -47,7 +47,7 @@
     "height": 96,
     "width": 375,
     "x": 0,
-    "y": 419
+    "y": 475
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -74,19 +74,19 @@
       "_class": "overrideValue",
       "do_objectID": "BE9E63F7-14FC-4176-A025-946F6C1C0EBE",
       "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_stringValue",
-      "value": "SmartBin BLACK"
+      "value": "SmartBin ORANGE"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "7C816633-B70B-4A2B-8D65-276207AC9D58",
       "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue",
-      "value": "Vitamin D3"
+      "value": "Vitamin B12"
     },
     {
       "_class": "overrideValue",
       "do_objectID": "0D35F0D9-F90A-4D88-815D-B6D12CCBBCC9",
       "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_stringValue",
-      "value": "연결됨"
+      "value": "연결됨, 잔량 70%"
     },
     {
       "_class": "overrideValue",
@@ -100,7 +100,7 @@
       "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/151e27218bc79e242dcf353749d36f1464c43a11.png",
+        "_ref": "images/3e23dcaa4a30ed9ab3fc09a59a4ee854ac65a8e0.png",
         "_ref_class": "MSImageData"
       }
     }

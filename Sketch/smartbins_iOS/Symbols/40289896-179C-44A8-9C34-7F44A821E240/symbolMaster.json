@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 299,
+  "changeIdentifier": 304,
   "clippingMaskMode": 0,
   "do_objectID": "40289896-179C-44A8-9C34-7F44A821E240",
   "exportOptions": {
@@ -86,6 +86,10 @@
     {
       "class": "text",
       "id": "C2BD625F-08C0-428C-A7A2-1444E39F90E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D06D9D78-D579-4AFD-8AF9-8136014C3C8D"
     }
   ],
   "name": "form / basic",

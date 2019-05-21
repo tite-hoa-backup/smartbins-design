@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F68DCA49-C43F-4E72-A610-455AD1F71635",
+  "do_objectID": "293B6AD5-70EF-4E8C-ACEC-6196CEBFB199",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A340CD18-8307-44FC-9B0A-23E7C4580011",
+    "do_objectID": "2FE83AAD-78C6-48DD-9E5D-A84587B49C49",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -43,11 +43,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7418FB08-7E06-44CB-AEC4-1E3A1FEB217E",
-    "height": 88,
+    "do_objectID": "504A4552-B25C-4CF4-A66F-EA0C6104FBB0",
+    "height": 1,
     "width": 375,
     "x": 0,
-    "y": 547
+    "y": 47
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,29 +57,23 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "btn / padding",
+  "name": "misc / bottomStrokeFull",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "AED5168F-7A05-495F-9219-AE0ACA146846",
-      "overrideName": "E01BF535-A850-4DB0-A472-857C52A82DFF/8AC96E52-CA2F-496D-948D-51607739EBB9_stringValue",
-      "value": "스마트빈 스캔 시작하기"
-    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "98EA7373-C77D-4FD4-9D5A-C786A67C0AC3",
+    "do_objectID": "EE473A2E-738D-4E5E-9A7F-7A19DE00CB30",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CAF3355A-91C4-4221-9DAB-7395BB9EB765",
+  "symbolID": "C1ED1086-7A9B-4266-822C-B3620D0773E9",
   "verticalSpacing": 0
 }

@@ -65,6 +65,12 @@
       "do_objectID": "FCB43B99-4971-4154-A205-BE0DD43987B2",
       "overrideName": "C2BD625F-08C0-428C-A7A2-1444E39F90E4_stringValue",
       "value": "생년월일"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5475AA88-96AC-48B5-A3BC-10F0EF84F82E",
+      "overrideName": "D06D9D78-D579-4AFD-8AF9-8136014C3C8D_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 13,

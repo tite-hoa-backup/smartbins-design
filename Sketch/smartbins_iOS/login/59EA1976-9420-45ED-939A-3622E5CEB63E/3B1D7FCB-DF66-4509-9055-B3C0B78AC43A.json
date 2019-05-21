@@ -60,6 +60,12 @@
   "name": "form / basic",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4EB7B5E-0180-45B8-9AAF-6BBC4CF0D923",
+      "overrideName": "D06D9D78-D579-4AFD-8AF9-8136014C3C8D_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 13,
   "resizingType": 0,

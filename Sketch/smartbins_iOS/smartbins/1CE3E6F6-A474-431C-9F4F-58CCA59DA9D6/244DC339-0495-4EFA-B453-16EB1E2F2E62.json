@@ -55,20 +55,20 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "header / title",
+  "name": "header / titleSubtext",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "146150F1-BEA3-462D-8E58-53E81637746B",
-      "overrideName": "29F86AFE-EF7F-476E-A0AD-37E83A2887A9_stringValue",
-      "value": "나의 스마트빈"
+      "do_objectID": "F6037300-FB32-4D23-95A3-69C5C8DEC2B7",
+      "overrideName": "98B3DE1D-E969-4F00-9818-1D4690DC9230_symbolID",
+      "value": ""
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "562644E1-FFA6-4D20-AE19-4205FF696AA6",
-      "overrideName": "BEE85BAC-7374-4763-BB42-85DCC591D908_symbolID",
-      "value": ""
+      "do_objectID": "3B4D0204-B5D0-43DF-B157-773D12CE40D5",
+      "overrideName": "E24F203F-3770-4D69-9807-9A29D21FD709_stringValue",
+      "value": "나의 스마트빈"
     }
   ],
   "resizingConstraint": 63,
@@ -83,6 +83,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AAC6EBE0-5A7B-4C87-B6AA-233AC3B6624C",
+  "symbolID": "B4D7812B-42F1-4A79-84D4-BC5237522551",
   "verticalSpacing": 0
 }

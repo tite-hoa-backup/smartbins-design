@@ -57,13 +57,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
-  "name": "header / title",
+  "name": "header / titleSubtext",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "146150F1-BEA3-462D-8E58-53E81637746B",
-      "overrideName": "29F86AFE-EF7F-476E-A0AD-37E83A2887A9_stringValue",
+      "do_objectID": "C2B84885-41E9-4692-B409-229C5644A785",
+      "overrideName": "E24F203F-3770-4D69-9807-9A29D21FD709_stringValue",
       "value": "나의 스마트빈"
     }
   ],
@@ -80,6 +80,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "AAC6EBE0-5A7B-4C87-B6AA-233AC3B6624C",
+  "symbolID": "B4D7812B-42F1-4A79-84D4-BC5237522551",
   "verticalSpacing": 0
 }
