@@ -85,6 +85,10 @@
     {
       "class": "symbolInstance",
       "id": "674C1DDB-B3C2-4791-81FA-6A1F40DF2011"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E714149-2E68-4E4F-A724-38B7230640ED"
     }
   ],
   "name": "signup / basicProgress",
