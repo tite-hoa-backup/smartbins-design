@@ -15,6 +15,15 @@
     "_class": "exportOptions",
     "do_objectID": "F80D5F7E-2F1C-4A89-92D0-BA25A0804F2E",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -35,7 +44,7 @@
     "do_objectID": "A87EE2F4-7B63-4AD9-AA8B-2ACAFF7EE5CC"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",

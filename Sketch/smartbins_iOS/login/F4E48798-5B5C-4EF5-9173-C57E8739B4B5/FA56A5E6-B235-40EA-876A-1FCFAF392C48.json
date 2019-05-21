@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FA56A5E6-B235-40EA-876A-1FCFAF392C48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9303299-1AF6-4A66-A1BC-C4A4E69A69BC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E41BF00C-CAE4-4829-9717-E7B40D075239",
+    "height": 68,
+    "width": 311,
+    "x": 32,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / helpText",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D6933C46-7826-433E-A943-94F96EDD17F0",
+      "overrideName": "03BE87EE-8049-41C5-A25D-598493FFF500_stringValue",
+      "value": "숫자만 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D498CD4-1203-4419-A4D4-19297B61698E",
+      "overrideName": "73402E51-CC37-4C74-9C8E-287CA2C9D534_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13CEF2E8-592D-4D22-AB41-E46BBC76CAFB",
+      "overrideName": "37EA38D1-D67C-4796-8C58-AE91CA1F8058_stringValue",
+      "value": "용량(단위: 정)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DE0B40D-7FFA-4F26-9F4B-472FE80F0B48",
+      "overrideName": "D1B1A5A7-DC93-4430-9E10-BFA2EB7D6CEA_symbolID",
+      "value": "B2EDB9A7-97B6-4DCE-ACB7-E09CA2A589C4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC525A1E-69E3-4A3D-94CD-02C7C496E4EF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BA5A378-9719-4211-86EB-44F80CCAEBAC",
+  "verticalSpacing": 0
+}
