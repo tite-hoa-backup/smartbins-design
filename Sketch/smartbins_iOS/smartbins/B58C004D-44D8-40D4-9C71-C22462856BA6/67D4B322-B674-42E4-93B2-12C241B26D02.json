@@ -1,0 +1,117 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "67D4B322-B674-42E4-93B2-12C241B26D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21359F78-690A-40C0-B651-4B85675C289D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "078420D8-9475-4C74-91E3-75B75AEE000A",
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 172
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / smartbins / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B11955A5-FD3B-4934-A29A-E5C2B24F1FF8",
+      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/0539BC45-07E8-4775-9FA6-6EFD58E726E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/21d2970029022c4e29e9c70869e9355a3c53ebb9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3C2C266-366E-47F3-8FF2-0B469A929C3F",
+      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_stringValue",
+      "value": "SmartBin RED"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AC8A56B-3F9F-4B43-B7AF-A3A3B8C8F5B8",
+      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue",
+      "value": "Omega 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E0D209D-9268-4EC5-AF8D-ACE031ABDA3B",
+      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_stringValue",
+      "value": "연결되지 않음, 잠겨있음"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FB02825-9067-48E4-BDC4-2A4910E6691F",
+      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/CEE51EB3-25C8-4D2A-A1BC-805112955994_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ffbc824918f7d528affdc737310fe2402a365796.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E6EFCBBB-D8BD-4249-A76E-0704082E304D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69BAA42D-BFEA-44F7-82CD-A2D094898CBF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,113 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DCF2260-0D01-4BEE-93A2-D47CBA499D58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB761761-E426-40FA-9DD5-2115DD3CE90B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53F7D79F-91DB-4127-8CE0-C18E90C893F9",
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / smartbins / basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8557A7ED-8F38-4529-8C14-0D6E70CF6DF0",
+      "overrideName": "0B6C2210-287E-49E9-A0F1-FC264DE9ECDF/0539BC45-07E8-4775-9FA6-6EFD58E726E3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5440e0221d58aeaa812033a6512346feffb4d288.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2479E61-5B4E-4C0F-8ABD-9FDC5D1D0295",
+      "overrideName": "45D44384-B844-4E0E-AD43-C1708FAE2784_stringValue",
+      "value": "SmartBin GREEN"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA958D7A-F750-49EA-8970-C8BAAD7C5BF1",
+      "overrideName": "AB0BC06E-EF57-4F5B-AC39-CDAD684EE982_stringValue",
+      "value": "Vitamin C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "30F3D2BD-BE12-4854-B662-525BD5988389",
+      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_stringValue",
+      "value": "연결됨, 잔량 88%"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DE5AF8C-483E-42A2-8CEF-A6354AAF318A",
+      "overrideName": "52C90F99-A55E-46AA-A0F8-64196C90AE3E_textStyle",
+      "value": "8914986B-4F3B-43A8-A4D8-3FE1EAB9531C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EED76AD8-36A5-4ADA-B26F-335A71BBFD47",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "69BAA42D-BFEA-44F7-82CD-A2D094898CBF",
+  "verticalSpacing": 0
+}

@@ -118,7 +118,7 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.05,
+          "alpha": 0.1,
           "blue": 1,
           "green": 0.6,
           "red": 0
