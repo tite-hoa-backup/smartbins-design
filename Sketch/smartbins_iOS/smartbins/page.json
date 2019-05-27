@@ -90,6 +90,10 @@
     {
       "class": "symbolInstance",
       "id": "647EF739-4E44-47B7-B917-2E3EB96E8D9A"
+    },
+    {
+      "class": "text",
+      "id": "CF7A77C1-C51E-49A1-BD89-06F0DA674169"
     }
   ],
   "name": "smartbins",
