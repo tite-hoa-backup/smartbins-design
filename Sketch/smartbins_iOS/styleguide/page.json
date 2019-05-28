@@ -46,6 +46,18 @@
     {
       "class": "artboard",
       "id": "275DA34F-3870-4550-8CD6-3F32D028DC4E"
+    },
+    {
+      "class": "text",
+      "id": "556511A6-274A-4C85-8070-E8D541A89C6D"
+    },
+    {
+      "class": "text",
+      "id": "268C5E10-3487-491D-AACB-F859B8A67E84"
+    },
+    {
+      "class": "text",
+      "id": "03ADE16B-3699-4AB9-9546-9987CCE55B85"
     }
   ],
   "name": "styleguide",

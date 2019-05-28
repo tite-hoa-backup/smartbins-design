@@ -35,7 +35,7 @@
     "do_objectID": "8DE0F8F2-5376-4080-A79F-E2A106304F6C"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -76,10 +76,6 @@
     },
     {
       "class": "text",
-      "id": "761EF7E5-3EE1-4F7A-80EA-1074F2CA4576"
-    },
-    {
-      "class": "text",
       "id": "A86ADEB9-5B4D-4C99-9A75-EF254E9DF6A5"
     },
     {
@@ -93,6 +89,22 @@
     {
       "class": "text",
       "id": "9A8AA890-47F8-48F2-8FF8-A0879828D0A8"
+    },
+    {
+      "class": "text",
+      "id": "761EF7E5-3EE1-4F7A-80EA-1074F2CA4576"
+    },
+    {
+      "class": "group",
+      "id": "36BE6CBD-06C9-4951-9E3A-0AF186E00769"
+    },
+    {
+      "class": "group",
+      "id": "030FCC24-716E-416C-BA14-6DEEEA8570B4"
+    },
+    {
+      "class": "group",
+      "id": "9FCC71FA-E7BC-4A8E-99A8-D05D57EB6891"
     }
   ],
   "name": "styleguide",

@@ -10,7 +10,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 826,
+  "changeIdentifier": 847,
   "clippingMaskMode": 0,
   "do_objectID": "1519A30D-EA0A-4108-9E00-C5624761759E",
   "exportOptions": {
@@ -85,8 +85,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "A2B6A1AF-1B64-4BCF-84C6-967B02D19C66"
+      "class": "oval",
+      "id": "255DC57B-E115-49A8-9B96-583809FC280F"
     }
   ],
   "name": "calendar / row / date / percent / 75",

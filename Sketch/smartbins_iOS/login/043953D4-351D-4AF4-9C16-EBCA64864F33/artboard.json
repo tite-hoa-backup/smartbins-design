@@ -44,7 +44,7 @@
     "do_objectID": "5EA12412-BFD6-4639-8B52-226D6B041629"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
